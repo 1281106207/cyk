@@ -1,5 +1,5 @@
 <?php 
-namespace Cyk/UpToComposer
+namespace Cyk/UpToComposer;
 
 class Contro{
 
