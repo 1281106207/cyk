@@ -1,9 +1,9 @@
 {
     "name": "cyk/up-to-composer",
     "description": "test",
+    "license": "MIT",
     "keywords": ["laravel","performance"],
     "homepage": "https://github.com/cyk",
-    "license": "",
     "authors": [
       {
         "name": "cyk",
@@ -13,7 +13,7 @@
       }
     ],
     "require": {
-        "php": "^5.3.3 || ^7.*",
+        "php": ">=7.1.0",
         "laravel/framework": "~4.0"
     },
     "autoload": {
